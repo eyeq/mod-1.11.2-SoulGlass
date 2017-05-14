@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eyeq_soulglass:blocks/soul_glass"
+  }
+}
